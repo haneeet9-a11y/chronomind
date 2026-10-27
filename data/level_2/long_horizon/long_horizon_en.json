@@ -1,0 +1,9 @@
+{
+  "mode": "long",
+  "prompt_language": "en",
+  "dataset_version": "chronomind-6EBE-cleaned-df2f542af3c5",
+  "screening_scope": "package-based screening; not independent human certification of source accuracy",
+  "chains": [],
+  "total_questions": 0,
+  "total_chains": 0
+}
